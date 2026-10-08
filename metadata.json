@@ -1,0 +1,7 @@
+{
+  "name": "Khan Cloth & Lace Center",
+  "description": "Premium Pakistani unstitched fabrics for ladies & gents, designer laces, blankets, curtains, bedsheets & prayer mats with easy order tracking and catalog management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
